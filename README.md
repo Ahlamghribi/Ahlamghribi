@@ -30,6 +30,8 @@ Every project below was crafted with precision, integrating speed, style, and se
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 </p>
+
+
 ## 🧠 Strategixs AI – Marketing Agency
 
 🔗 [Visit Site](https://ai.strategixs.net)
