@@ -6,7 +6,6 @@ Welcome to my portfolio — front-end dev and webdesign figma and tools like **H
 Every project below was crafted with precision, integrating speed, style, and security.
 
 ---
-## Languages and Tools:
 
 ## Languages and Tools:
 <p align="left">
