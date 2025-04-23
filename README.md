@@ -161,13 +161,4 @@ Every project below was crafted with precision, integrating speed, style, and se
 
 ---
 
-### 🙋‍♀️ About Me
-
-- 👩‍💻 Front-end Dev | WordPress Specialist | UI/UX Explorer | Cybersecurity Student  
-- 💡 Obsessed with clean code, beautiful design, and secure systems  
-- 🌍 Based in Algeria | Fluent in Arabic, French & English  
-- 📫 [LinkedIn](https://www.linkedin.com/in/ahlam-ghribi)  
-
----
-
 > 💬 *Let’s build something unforgettable together.*
