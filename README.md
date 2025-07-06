@@ -54,6 +54,21 @@ Every project below was crafted with precision, integrating speed, style, and se
 - Configured Cloudflare SSL and caching rules
 
 ---
+## 🛍️ Future Caravans – Event Platform by Guiddini
+
+🔗 [Visit Site](https://futurecaravans.com/)
+
+✨ **Tech Stack**: WordPress, Figma Design, Custom CSS, Custom Styling  
+🎨 **Role**:
+
+- Designed UI layouts on Figma before development  
+- Developed a responsive website using WordPress  
+- Wrote and implemented custom CSS for advanced layout and styling  
+- Integrated custom event booking and promotional visuals  
+- Optimized images, layout, and mobile performance  
+
+📝 **Context**:  
+Future Caravans is an innovative educational program organized by **Guiddini**. The project offers a first immersion into the world of digital payments and financial literacy. Now in its **3rd edition (2025)**, the initiative travels across **7 wilayas in Algeria**, spreading knowledge and tech awareness through engaging caravans.
 
 ## 🎓 Kost formation métiers - Algerian Academy 
 
