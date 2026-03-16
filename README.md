@@ -277,10 +277,4 @@ SSL/TLS, firewall rules, HTTPS enforcement, encrypted forms, brute-force protect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlamghribi)
 
 <br/><br/>
-
-```
-     Algeria 🇩🇿  ─────────────────────────────  World 🌍
-        Building without borders. Delivering without excuses.
-```
-
 </div>
