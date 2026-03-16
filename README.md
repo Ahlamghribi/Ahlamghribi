@@ -1,179 +1,383 @@
-# 🌐 Web Projects – Ahlam Ghribi 
+<div align="center">
 
-> *“I don’t just build websites — I build digital experiences.”*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AHLAM%20GHRIBI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Engineer%20%C2%B7%20Digital%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
-Every project below was crafted with precision, integrating speed, style, and security.
+</div>
 
----
+<div align="center">
 
-## Languages and Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" alt="google ads" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║        "I don't build websites. I engineer digital experiences            ║
+║         that think, breathe, and convert."                                ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
+<br/>
 
-## 🧠 Strategixs AI – Marketing Agency
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;UI%2FUX+Engineer+%F0%9F%8E%A8;3D+Web+Experiences+%E2%9C%A8;React+%C2%B7+Three.js+%C2%B7+Node.js+%C2%B7+Django;Building+the+web+one+pixel+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-🔗 [Visit Site](https://ai.strategixs.net)
+<br/>
 
-✨ **Tech Stack**: application strategixs, Custom UI/UX  
-🛠 **Hosting**: Cloudflare + cPanel (Custom DNS)  
-🎨 **Role**:  
-- Developed from scratch using Elementor Pro and custom CSS  
-- Integrated AI-powered plugins for lead generation and content  
-- Enhanced loading speed and SEO using optimization tools  
-- Configured Cloudflare SSL and caching rules
+![Profile Views](https://komarev.com/ghpvc/?username=Ahlamghribi&style=flat-square&color=00C8FF&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Ahlamghribi?style=flat-square&color=00C8FF&labelColor=0D1117&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/Ahlamghribi?style=flat-square&color=C9A84C&labelColor=0D1117&label=TOTAL+STARS)
 
----
-## 🛍️ Future Caravans – Event Platform by Guiddini
-
-🔗 [Visit Site](https://futurecaravans.com/)
-
-✨ **Tech Stack**: WordPress, Figma Design, Custom CSS, Custom Styling  
-🎨 **Role**:
-
-- Designed UI layouts on Figma before development  
-- Developed a responsive website using WordPress  
-- Wrote and implemented custom CSS for advanced layout and styling  
-- Integrated custom event booking and promotional visuals  
-- Optimized images, layout, and mobile performance  
-
-📝 **Context**:  
-Future Caravans is an innovative educational program organized by **Guiddini**. The project offers a first immersion into the world of digital payments and financial literacy. Now in its **3rd edition (2025)**, the initiative travels across **7 wilayas in Algeria**, spreading knowledge and tech awareness through engaging caravans.
-
-## 🎓 Kost formation métiers - Algerian Academy 
-
-🔗 [Visit Site](https://metiers.kostacademy.com/)
-
-✨ **Tech Stack**: WordPress, Elementor plugins, LearnPress LMS, Custom CSS  
-🛠 **Hosting**: Cloudflare + Shared Hosting  
-🎨 **Role**:  
-- Complete site setup from domain to design  
-- LMS plugin configuration for structured courses  
-- Created multilingual content sections  
-- Implemented speed optimization and responsive breakpoints, SEO, marketing, image referencing etc.
+</div>
 
 ---
 
-## ✈️ TripSun – Travel Agency Website in Algeirs
+<div align="center">
 
-🔗 [Visit Site](https://trip-sun.com/)
+## ◈ &nbsp; W H O &nbsp; A M &nbsp; I &nbsp; &nbsp; ◈
 
-✨ **Tech Stack**: WordPress, Elementor Pro, WooCommerce  
-🛠 **Hosting**: Cloudflare + LWS Hosting  
-🎨 **Role**:  
-- SEO & marketing optimizations  
-- Integrated booking system and product management  
-- Enhanced travel blog and gallery design  
-- Applied caching, lazy load, and image optimization
+</div>
+
+```javascript
+const ahlam = {
+  name        : "Ahlam Ghribi",
+  location    : "Algeria 🇩🇿  ↔  France 🇫🇷",
+  role        : "Full-Stack Developer & Digital Architect",
+  
+  currently   : [
+    "Building 3D interactive web experiences with Three.js",
+    "Crafting premium landing pages for French enterprises",
+    "Developing full-stack SaaS products with React + Django"
+  ],
+
+  stack : {
+    frontend  : ["React.js", "HTML5", "CSS3", "Tailwind", "SASS", "Three.js"],
+    backend   : ["Node.js", "Django", "Python", "PHP", "Java"],
+    mobile    : ["Flutter", "Android", "iOS"],
+    databases : ["MySQL", "MongoDB"],
+    devops    : ["Docker", "AWS", "Cloudflare", "Firebase"],
+    design    : ["Figma", "Photoshop", "Illustrator", "Framer"],
+    cms       : ["WordPress", "Elementor Pro", "WooCommerce", "LearnPress"],
+    marketing : ["Google Analytics", "Google Ads", "RankMath", "Yoast SEO"]
+  },
+
+  philosophy  : "Every pixel has a purpose. Every animation tells a story.",
+  available   : true  // → Let's build something together
+};
+```
 
 ---
 
-## 🏢 American Prograde Academy (Based in USA) 
+<div align="center">
 
-🔗 [Visit Site](https://apgaccreditation.com/)
+## ⬡ &nbsp; T E C H &nbsp; A R S E N A L &nbsp; &nbsp; ⬡
 
-✨ **Tech Stack**: WordPress, Elementor, Custom Forms, Payment Gateways  
-🛠 **Hosting**: Cloudflare + USA-based Webhost  
-🎨 **Role**:  
-- Built membership system from scratch  
-- Designed application flow and custom payment forms  
-- Implemented onboarding UX and mobile-first layout  
-- Optimized database performance and security with firewall
+</div>
 
----
+<div align="center">
 
-## ✈️ Immigration/Travel to Canada Agency 
+**// FRONTEND & DESIGN**
 
-🔗 [Visit Site](https://im.experter.ca/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-✨ **Tech Stack**: WordPress, Framer, Motion Effects, 3D Transitions  
-🛠 **Hosting**: Framer Cloud  
-🎨 **Role**:  
-- Full visual brand story design  
-- Used animations and custom transitions  
-- Designed layout in Framer with smooth UX  
-- Responsive for all devices with bold typography & color, templates, etc.
+**// BACKEND & DATA**
 
----
-## 🧰 Tools, Plugins & Frameworks I Work With:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- **Languages**: HTML5, CSS3, JavaScript (ES6+), PHP, Java, Python, C, LaTeX
-  
-- **Libraries/Frameworks**: React.js, Node.js, Django, Flutter, Bootstrap, Tailwind CSS, SASS
-  
-- **Platforms & CMS**: WordPress, Framer, GitHub Pages, Mobile Development (Android/iOS)
-  
-- **Plugins & Extensions**: Elementor Pro, WPML, LearnPress, WooCommerce, Various SEO plugins
-  
-- **Hosting & DevOps**: Cloudflare, cPanel, Framer Cloud, Docker, AWS, Firebase
-  
-- **Design Tools**: Figma, Photoshop CS6, Adobe Illustrator, Canva, UI/UX design tools
-  
-- **Animations & Interactive**: LottieFiles, Framer Motion, ScrollTrigger, CSS Animations
-  
-- **Databases**: MySQL, MongoDB, SQL databases
-  
-- **SEO & Marketing**: RankMath, Yoast, GTmetrix, Google Search Console, Google Analytics, Google Ads
-  
-- **Productivity & Business**: Microsoft Office, Google Workplace (Docs, Sheets, Slides, Forms, Sites), Business Intelligence tools
-  
-- **Technical Computing**: MATLAB, Scientific computing libraries
-  
-- **Development Tools**: Git, Postman, VS Code, Development environments
+**// DEVOPS & CLOUD**
 
----
-## 📊 Project Results & Achievements
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-![Website Speed](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+**// DESIGN & CREATIVE**
 
-### Performance Metrics
-- 🚀 **95+ PageSpeed scores** across all client websites
-- ⚡ **2.5s average load time** (industry average is 5-6s)
-- 📱 **100% mobile-responsive** design implementation
-- 🔄 **40% lower bounce rates** after redesigns
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### Technical Quality
-- ✅ **W3C Validated** code across all projects
-- 🔒 **HTTPS secured** with proper SSL implementation
-- 🛡️ **Security hardening** with firewall and encryption
-- 🧩 **Accessible design** following WCAG guidelines
-
-### SEO & Business Impact
-- 📈 **+65% average organic traffic** increase post-launch
-- 🔝 **Top 5 Google ranking** for target keywords
-- 💰 **Conversion rate improvements** of 25-40%
-- 🌐 **Multi-language support** for global audiences
+</div>
 
 ---
 
-> 💬 *Let’s build something unforgettable together.*
+<div align="center">
+
+## ◎ &nbsp; F E A T U R E D &nbsp; W O R K &nbsp; &nbsp; ◎
+
+</div>
+
+> *Real clients. Real results. Real impact.*
+
+---
+
+### `[ 01 ]` &nbsp; 🧠 Strategix AI — Marketing Agency
+**`→` [ai.strategixs.net](https://ai.strategixs.net)**
+
+```
+STACK    WordPress · Elementor Pro · Custom CSS · Cloudflare · cPanel
+ROLE     Full development · AI plugin integration · SEO · Performance
+```
+
+Built from scratch for a **French AI marketing agency**. Integrated AI-powered lead generation plugins, configured Cloudflare SSL with custom caching rules, and optimized every layer of the stack for speed and conversion. Custom CSS overrides throughout to push Elementor beyond its defaults.
+
+`WordPress` `Elementor Pro` `Cloudflare` `Custom DNS` `AI Plugins` `SEO`
+
+---
+
+### `[ 02 ]` &nbsp; 🎓 Kost Formation Métiers — Algerian E-Learning Academy
+**`→` [metiers.kostacademy.com](https://metiers.kostacademy.com)**
+
+```
+STACK    WordPress · LearnPress LMS · Elementor · Cloudflare · CSS
+ROLE     Full setup · LMS config · Multilingual · Speed · SEO
+```
+
+End-to-end build of an Algerian professional training platform — from domain setup to final deployment. Configured **LearnPress LMS** for structured course delivery, built multilingual content sections, and implemented aggressive performance optimizations. The platform serves as a digital gateway for professional certification in Algeria.
+
+`LMS` `WordPress` `WPML` `Speed Optimization` `Mobile-First` `SEO`
+
+---
+
+### `[ 03 ]` &nbsp; 🌍 Future Caravans — Educational Event Platform
+**`→` [futurecaravans.com](https://futurecaravans.com)**
+
+```
+STACK    WordPress · Figma · Custom CSS · Event Booking System
+ROLE     UI design in Figma → full WordPress development
+CONTEXT  3rd edition · 7 wilayas across Algeria · Guiddini initiative
+```
+
+Designed the full UI in **Figma** before a single line of code. Built a responsive event platform for Algeria's premier financial literacy initiative, now in its 3rd edition spanning 7 wilayas. Custom CSS for layout complexity Elementor alone couldn't handle. Integrated event booking and promotional visuals optimized for mobile-first audiences.
+
+`Figma` `WordPress` `Event Booking` `Custom CSS` `Mobile Performance`
+
+---
+
+### `[ 04 ]` &nbsp; ✈️ TripSun — Travel Agency · Algiers
+**`→` [trip-sun.com](https://trip-sun.com)**
+
+```
+STACK    WordPress · Elementor Pro · WooCommerce · LWS · Cloudflare
+ROLE     Booking system · SEO · WooCommerce · Blog design · Optimization
+```
+
+Full travel agency website with integrated booking and product management via **WooCommerce**. Enhanced travel blog and gallery design. Applied caching, lazy load, and image compression — achieving sub-3s load times for image-heavy travel content. SEO-optimized for local Algerian and international search.
+
+`WooCommerce` `Booking System` `Travel Blog` `Performance` `SEO`
+
+---
+
+### `[ 05 ]` &nbsp; 🏢 American Prograde Academy — USA Accreditation Platform
+**`→` [apgaccreditation.com](https://apgaccreditation.com)**
+
+```
+STACK    WordPress · Elementor · Custom Forms · Payment Gateways · USA Hosting
+ROLE     Membership system · Application flow · Payment forms · Security
+```
+
+Built a **full membership and accreditation system** from zero for a US-based academic institution. Designed the entire application flow with custom payment forms and onboarding UX. Implemented mobile-first layout, database performance optimization, and security hardening with firewall configuration.
+
+`Membership System` `Payment Gateway` `Security Hardening` `Onboarding UX`
+
+---
+
+### `[ 06 ]` &nbsp; ✈️ Experter — Immigration to Canada Platform
+**`→` [im.experter.ca](https://im.experter.ca)**
+
+```
+STACK    Framer · Motion Effects · 3D Transitions · Framer Cloud
+ROLE     Full brand story · Animations · Custom transitions · Responsive
+```
+
+A visually bold immigration platform built entirely in **Framer** — where every scroll tells a story. Custom 3D transitions, smooth motion effects, and a typography-forward design that communicates trust and aspiration simultaneously. Hosted on Framer Cloud for zero-latency delivery.
+
+`Framer` `3D Transitions` `Motion Design` `Brand Storytelling`
+
+---
+
+### `[ 07 ]` &nbsp; 💎 Strategix Landing Pages — THIS REPO
+**`→` [github.com/Ahlamghribi/landing-page-strategixs-assistance](https://github.com/Ahlamghribi/landing-page-strategixs-assistance)**
+
+```
+STACK    HTML5 · CSS3 · Vanilla JS · Three.js · Zero dependencies
+PAGES    2 pages · 2 identities · 1 brand · 0 frameworks
+```
+
+Two landing pages for **Strategix** — a French enterprise operating in administrative assistance and premium consulting. Each page is a distinct visual world, sharing zero aesthetic DNA while serving the same brand ecosystem.
+
+```
+PAGE 1 — Strategix Assistance
+Cyber Blue · SaaS Dashboard · Canvas particles · 3D card parallax
+Target: People whose prefectural ANEF file is blocked
+
+PAGE 2 — Strategix Consulting
+Dark Gold · Luxury Editorial · Two live Three.js 3D scenes
+Target: CEOs, founders, scale-up leaders
+```
+
+Zero npm. Zero build. Zero compromise. Open in browser — it runs.
+
+`Three.js` `Vanilla JS` `Canvas API` `CSS Animations` `3D Scenes` `Custom Cursor`
+
+---
+
+<div align="center">
+
+## ◈ &nbsp; B Y &nbsp; T H E &nbsp; N U M B E R S &nbsp; &nbsp; ◈
+
+</div>
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│   🚀  95+        PageSpeed score across all client sites       │
+│   ⚡  2.5s       Average load time  (industry avg: 5–6s)       │
+│   📱  100%       Mobile-responsive implementation              │
+│   📈  +65%       Average organic traffic increase post-launch  │
+│   🔝  Top 5      Google ranking for target keywords            │
+│   💰  +25–40%    Conversion rate improvements                  │
+│   🔄  −40%       Bounce rate reduction after redesigns         │
+│   🌐  6+         Countries served across client projects       │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## ⬟ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; &nbsp; ⬟
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahlamghribi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=C9A84C&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahlamghribi&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=ffffff"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahlamghribi&theme=radical&hide_border=true&background=0D1117&stroke=00C8FF&ring=C9A84C&fire=C9A84C&currStreakLabel=00C8FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahlamghribi&bg_color=0D1117&color=00C8FF&line=C9A84C&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◎ &nbsp; T H I S &nbsp; R E P O &nbsp; — &nbsp; D E E P &nbsp; D I V E &nbsp; &nbsp; ◎
+
+</div>
+
+Two pages. Radically different. Intentionally so.
+
+```
+landing-page-strategixs-assistance/
+│
+├── page 1.html    ─────────────────────────────────── Strategix Assistance
+│   │                                                  Cabinet administratif
+│   ├── 🎨  Cyber Blue × Neon Cyan × Deep Dark
+│   ├── 📐  CSS Grid + Flexbox surgical layouts
+│   ├── ✨  Canvas particle network — reactive background
+│   ├── 🃏  3D hero card with mouse-tracking parallax
+│   ├── 📊  Animated ANEF audit dashboard
+│   ├── ⏱️  Legal action timeline — live animation
+│   ├── 📄  Document management UI mockup
+│   ├── 💬  FAQ accordion with smooth transitions
+│   ├── 🔢  Scroll-triggered counters  95% · 1500+ · <30j
+│   └── 💫  Pulsing CTA rings — engineered urgency
+│
+└── page2 .html   ─────────────────────────────────── Strategix Consulting
+    │                                                  Premium advisory
+    ├── 🎨  Deep Black × Liquid Gold × Ivory White
+    ├── 🔡  Syne 800 + Instrument Serif italic + Space Mono
+    ├── 🌐  THREE.JS SCENE 1 — Icosahedron hero
+    │       └── Wireframe icosahedron · 4 orbital rings
+    │           Floating octahedra · 900 particles
+    │           Full mouse parallax on camera
+    ├── 🌐  THREE.JS SCENE 2 — Cube showcase
+    │       └── Metallic wireframe cube · Contra-rotating inner cube
+    │           7 orbiting spheres · 3D animated grid
+    │           Corner rays · Dynamic point lighting
+    ├── 🖱️  Custom gold cursor — physics lag + hover expand
+    ├── ⏳  Loading screen with animated progress bar
+    ├── 📰  Infinite marquee ticker
+    ├── 🔤  Word-by-word hero title slide-up animation
+    ├── 📈  Performance dashboard — animated bars
+    └── 🎯  Scroll reveals — cubic-bezier precision
+```
+
+**Technical decision:** Zero npm. Zero build step. Zero runtime overhead.
+One file opens in any browser, anywhere, instantly. That's the point.
+
+---
+
+<div align="center">
+
+## ⬡ &nbsp; D E S I G N &nbsp; P H I L O S O P H Y &nbsp; &nbsp; ⬡
+
+</div>
+
+```
+                    ╔══════════════════════╗
+                    ║  PAGE 1  vs  PAGE 2  ║
+                    ╚══════════════════════╝
+
+     BLUE ──────────────────────────────── GOLD
+   Urgency ──────────────────────────── Prestige  
+  Utility ───────────────────────────── Elegance
+   Trust ─────────────────────────────── Power
+   SaaS ──────────────────────────── Editorial
+  Poppins ───────────────────────── Syne 800
+   Neon ──────────────────────── Serif italic
+  Dashboard ───────────────────── White space
+   Canvas ───────────────────── Three.js 3D
+```
+
+Same brand. Opposite worlds. That's the design challenge — and it works.
+
+---
+
+<div align="center">
+
+## ◈ &nbsp; C O N N E C T &nbsp; &nbsp; ◈
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@strategix-assistance.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlamghribi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahlamghribi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+<br/>
+
+```
+Algeria 🇩🇿  ──────────  France 🇫🇷
+     Building across borders, one project at a time.
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
