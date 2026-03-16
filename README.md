@@ -1,10 +1,12 @@
 <div align="center">
-<img src="header.svg" width="100%" alt="Ahlam Ghribi"/>
+<img src="header.svg" width="100%" alt="Ahlam Ghribi — Full-Stack Developer · Cybersecurity Engineer"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=2800&pause=900&color=9333EA&center=true&vCenter=true&width=780&lines=Hey+%F0%9F%91%8B+I'm+Ahlam+—+I+build+things+that+matter.;Full-Stack+Developer+%7C+Frontend+%2B+Backend.;I+secure+what+others+forget+to+protect.+%F0%9F%9B%A1%EF%B8%8F;3D+web+experiences+with+Three.js+%26+WebGL.;From+Algeria+%F0%9F%87%A9%F0%9F%87%BF+—+delivering+for+the+world.;Clean+code.+Sharp+design.+Zero+compromise.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=2800&pause=900&color=9333EA&center=true&vCenter=true&width=780&lines=Hey+%F0%9F%91%8B+I'm+Ahlam+—+I+build+things+that+matter.;Full-Stack+Developer+%7C+Frontend+%2B+Backend.;I+secure+what+others+forget+to+protect.+%F0%9F%9B%A1%EF%B8%8F;3D+web+experiences+with+Three.js+%26+WebGL.;From+Algeria+%F0%9F%87%A9%F0%9F%87%BF+—+delivering+for+the+world.;Clean+code.+Sharp+design.+Zero+compromise.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,11 +37,9 @@
 
 ## 🧬 &nbsp; About Me
 
-I'm a **Full-Stack Developer** and **Cybersecurity practitioner** based in Algeria — working across the full spectrum of the web. I design, build, secure, and ship.
+I'm a **Full-Stack Developer** and **Cybersecurity Engineer** based in Algeria — working across the full spectrum of the web. I design, build, secure, and ship.
 
 I've delivered production-grade projects for clients in **Algeria, France, the USA, and Canada** — from e-learning platforms and travel agencies to AI marketing sites and accreditation systems. Each one built from scratch, with care.
-
-My work lives at the intersection of:
 
 ```
   Engineering  ×  Design  ×  Security
@@ -169,7 +169,7 @@ Figma design → WordPress build. Algeria's top financial literacy caravan, 3rd 
 ### ✈️ TripSun — Travel Agency
 **→ [trip-sun.com](https://trip-sun.com)** &nbsp; `Algeria 🇩🇿`
 
-WooCommerce booking + product management. Sub-3s load on image-heavy content via caching, lazy load, compression. SEO top-ranked.
+WooCommerce booking + product management. Sub-3s load on image-heavy content. SEO top-ranked.
 
 `WooCommerce` `Elementor Pro` `LWS` `Cloudflare` `SEO`
 
@@ -203,7 +203,7 @@ Built in Framer. 3D transitions, scroll storytelling, motion design. Every inter
 ### 💎 Strategix Landing Pages
 **→ [View Repo](https://github.com/Ahlamghribi/landing-page-strategixs-assistance)** &nbsp; `France 🇫🇷`
 
-2 pages, 2 identities, 0 frameworks. Two live Three.js 3D scenes — rotating icosahedron + orbital wireframe cube. Custom cursor, Canvas API.
+2 pages, 2 identities, 0 frameworks. Two live Three.js 3D scenes. Custom cursor, Canvas API, pure CSS animations.
 
 `Three.js` `Canvas API` `Vanilla JS` `CSS Animations`
 
@@ -212,7 +212,7 @@ Built in Framer. 3D transitions, scroll storytelling, motion design. Every inter
 
 ### 🛡️ Security Across All Projects
 
-SSL/TLS configuration, firewall rules, HTTPS enforcement, encrypted forms, brute-force protection, OWASP best practices — applied on every deployment.
+SSL/TLS, firewall rules, HTTPS enforcement, encrypted forms, brute-force protection, OWASP best practices — every deployment, without exception.
 
 `SSL/TLS` `Firewall` `OWASP` `Encryption` `Auth`
 
@@ -282,9 +282,5 @@ SSL/TLS configuration, firewall rules, HTTPS enforcement, encrypted forms, brute
      Algeria 🇩🇿  ─────────────────────────────  World 🌍
         Building without borders. Delivering without excuses.
 ```
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Ahlamghribi/Ahlamghribi/main/header.svg" width="0" height="0"/>
 
 </div>
