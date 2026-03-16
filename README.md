@@ -1,47 +1,58 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ahlam%20Ghribi&fontSize=90&color=0:0a0a0a,100:1a1a2e&stroke=00C8FF&strokeWidth=3&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Engineer%20%E2%80%A2%20Digital%20Architect&descSize=18&descAlignY=72&descColor=00C8FF"/>
-
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=I+don't+build+websites.+I+build+experiences.;From+Algeria+%F0%9F%87%A9%F0%9F%87%BF+to+France+%F0%9F%87%AB%F0%9F%87%B7+%E2%80%94+building+across+borders.;React+%C2%B7+Three.js+%C2%B7+Django+%C2%B7+Node.js+%C2%B7+AWS;Every+pixel+has+a+purpose.+Every+line+has+intent.;6+countries+served.+0+compromises+made.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24&height=200&text=Ahlam%20Ghribi&fontAlign=70&fontAlignY=45&fontSize=60&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20UI%2FUX%20Engineer&descAlign=70&descAlignY=68&descSize=15&descColor=ffffffaa&animation=fadeIn" width="100%"/>
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+the+web+from+front+to+back.+🚀;Securing+systems+others+leave+open.+🛡️;Turning+ideas+into+products+people+love.+✨;From+Algeria+🇩🇿+—+building+for+the+world.+🌍;Clean+code.+Sharp+design.+Zero+compromise.+⚡)](https://git.io/typing-svg)
+
 <br/>
+
+![](https://img.shields.io/badge/Open%20to%20Work-✅-a855f7?style=flat-square&labelColor=1a1a2e&color=a855f7)
+![](https://img.shields.io/badge/Based%20In-Algeria%20🇩🇿-1a1a2e?style=flat-square&labelColor=1a1a2e&color=7c3aed)
+![](https://img.shields.io/badge/Focus-Web%20%2B%20CyberSec-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6d28d9)
+[![Gmail](https://img.shields.io/badge/ahlamghribi77@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahlamghribi77@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    const me = {                                                  ║
-║      name     : "Ahlam Ghribi",                                 ║
-║      based    : "Algeria  ↔  France",                           ║
-║      role     : "Full-Stack Developer & UI/UX Engineer",         ║
-║      passion  : "Turning ideas into living, breathing products", ║
-║      mantra   : "If it doesn't feel alive — it's not done yet"  ║
-║    }                                                             ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   " I write code that works.  I design things that feel right.     │
+│     I secure systems others forget to protect.                      │
+│     I don't just ship features — I build things I'm proud of. "    │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🧬 &nbsp; What I Do
+## 🧬 &nbsp; About Me
 
-I build **end-to-end digital products** — from the first Figma frame to the last `git push`. I work at the intersection of engineering precision and design intuition. I don't use templates. I don't copy. I architect.
+I'm a **Full-Stack Developer** and **Cybersecurity practitioner** based in Algeria — working across the full spectrum of the web. I design, build, secure, and ship.
 
-- 🏗️ &nbsp; **Full-Stack Development** — React, Node.js, Django, PHP, from schema to deployment
-- 🎨 &nbsp; **UI/UX Design** — Figma-first, pixel-perfect, motion-aware interfaces
-- 🌐 &nbsp; **3D Web Experiences** — Three.js scenes, WebGL, interactive canvas
-- 📦 &nbsp; **CMS & E-Commerce** — WordPress, WooCommerce, LearnPress LMS at scale
-- ☁️ &nbsp; **DevOps & Cloud** — Cloudflare, AWS, Docker, cPanel, Firebase
-- 📈 &nbsp; **SEO & Digital Marketing** — Google Analytics, Ads, RankMath, Search Console
+I've delivered production-grade projects for clients in **Algeria, France, the USA, and Canada** — from e-learning platforms and travel agencies to AI marketing sites and accreditation systems. Each one built from scratch, with care.
+
+My work lives at the intersection of:
+
+```
+  Engineering  ×  Design  ×  Security
+```
+
+- 🖥️ &nbsp; **Frontend** — React, Three.js, Vanilla JS, CSS animations, WebGL, Canvas API
+- ⚙️ &nbsp; **Backend** — Node.js, Django, PHP, REST APIs, databases, auth systems
+- 🛡️ &nbsp; **Cybersecurity** — Security hardening, firewall config, SSL, penetration concepts
+- 🎨 &nbsp; **UI/UX** — Figma-first design, motion design, responsive systems
+- ☁️ &nbsp; **DevOps** — Docker, AWS, Cloudflare, Firebase, cPanel deployments
+- 📊 &nbsp; **Marketing** — SEO, Google Analytics, Ads, conversion optimization
 
 ---
 
@@ -49,7 +60,7 @@ I build **end-to-end digital products** — from the first Figma frame to the la
 
 <div align="center">
 
-### Core Languages
+**LANGUAGES**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,44 +69,47 @@ I build **end-to-end digital products** — from the first Figma frame to the la
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### Frameworks & Libraries
+**FRONTEND & 3D**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Cloud, DevOps & Hosting
+**BACKEND & DATABASE**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DEVOPS & CLOUD**
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Design & Creative Tools
+**DESIGN & TOOLS**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### CMS & Marketing
+**CMS & MOBILE**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**SEO & MARKETING**
+
 ![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -105,32 +119,32 @@ I build **end-to-end digital products** — from the first Figma frame to the la
 
 ---
 
-## 🗂️ &nbsp; Selected Projects
+## 🗂️ &nbsp; Selected Work
 
-> *Each one built from scratch. No templates. No shortcuts.*
+> *Real clients. Real products. Real impact.*
 
----
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 Strategix AI — Marketing Agency
-**[ai.strategixs.net](https://ai.strategixs.net)** &nbsp; `France`
+**[ai.strategixs.net](https://ai.strategixs.net)** &nbsp;•&nbsp; `France 🇫🇷`
 
-Built for a French AI marketing agency. Custom UI/UX with Elementor Pro pushed far beyond its defaults via surgical CSS overrides. Integrated AI-powered lead generation plugins. Configured Cloudflare SSL, custom caching rules, and CDN routing.
+Full build for a French AI marketing agency. Custom Elementor + CSS overrides, AI-powered lead gen plugins, Cloudflare SSL + caching architecture.
 
-`WordPress` `Elementor Pro` `Cloudflare` `AI Plugins` `Custom DNS`
+`WordPress` `Elementor Pro` `Cloudflare` `AI Plugins`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Kost Formation Métiers
-**[metiers.kostacademy.com](https://metiers.kostacademy.com)** &nbsp; `Algeria`
+**[metiers.kostacademy.com](https://metiers.kostacademy.com)** &nbsp;•&nbsp; `Algeria 🇩🇿`
 
-Full e-learning platform built end-to-end — domain to deployment. LearnPress LMS configured for structured professional training. Multilingual content, responsive breakpoints, speed optimization, image referencing, and SEO architecture.
+Full e-learning platform from domain to deployment. LearnPress LMS, multilingual content, responsive design, SEO, speed optimization.
 
-`LearnPress LMS` `WordPress` `WPML` `SEO` `Cloudflare`
+`LearnPress` `WordPress` `WPML` `SEO` `Cloudflare`
 
 </td>
 </tr>
@@ -138,21 +152,21 @@ Full e-learning platform built end-to-end — domain to deployment. LearnPress L
 <td width="50%" valign="top">
 
 ### 🌍 Future Caravans — Event Platform
-**[futurecaravans.com](https://futurecaravans.com)** &nbsp; `Algeria · 7 wilayas`
+**[futurecaravans.com](https://futurecaravans.com)** &nbsp;•&nbsp; `Algeria · 7 wilayas`
 
-UI designed in Figma first — then built. Platform for Algeria's premier financial literacy caravan, now in its 3rd edition. Custom CSS for layout complexity Elementor couldn't handle. Event booking, promotional visuals, mobile-first performance.
+Figma-designed UI then built in WordPress. 3rd edition of Algeria's top financial literacy caravan. Custom CSS, event booking, mobile-first.
 
-`Figma → WordPress` `Custom CSS` `Event Booking` `Mobile`
+`Figma → Code` `WordPress` `Custom CSS` `Event Booking`
 
 </td>
 <td width="50%" valign="top">
 
 ### ✈️ TripSun — Travel Agency
-**[trip-sun.com](https://trip-sun.com)** &nbsp; `Algeria`
+**[trip-sun.com](https://trip-sun.com)** &nbsp;•&nbsp; `Algeria 🇩🇿`
 
-Full travel agency with WooCommerce booking and product management. Sub-3s load time on image-heavy travel content via aggressive caching, lazy load, and compression. SEO-optimized for local and international search rankings.
+WooCommerce booking + product management. Sub-3s load on image-heavy content via caching, lazy load, compression. SEO-ranked.
 
-`WooCommerce` `Elementor Pro` `LWS` `Cloudflare` `SEO`
+`WooCommerce` `Elementor Pro` `Performance` `SEO`
 
 </td>
 </tr>
@@ -160,21 +174,21 @@ Full travel agency with WooCommerce booking and product management. Sub-3s load 
 <td width="50%" valign="top">
 
 ### 🏢 American Prograde Academy
-**[apgaccreditation.com](https://apgaccreditation.com)** &nbsp; `USA`
+**[apgaccreditation.com](https://apgaccreditation.com)** &nbsp;•&nbsp; `USA 🇺🇸`
 
-Complete membership and accreditation system built from zero for a US academic institution. Custom payment forms, application flow, onboarding UX. Security hardened with firewall, encryption, and database optimization.
+Membership + accreditation system from zero. Custom payment forms, onboarding UX, security hardening, firewall, DB optimization.
 
-`WordPress` `Membership System` `Payment Gateway` `Security` `US Hosting`
+`Membership System` `Payment Gateway` `Security` `US Hosting`
 
 </td>
 <td width="50%" valign="top">
 
 ### ✈️ Experter — Canada Immigration
-**[im.experter.ca](https://im.experter.ca)** &nbsp; `Canada`
+**[im.experter.ca](https://im.experter.ca)** &nbsp;•&nbsp; `Canada 🇨🇦`
 
-Built entirely in Framer — every scroll tells a story. 3D transitions, smooth motion effects, typography-forward design communicating trust and aspiration. Hosted on Framer Cloud for zero-latency global delivery.
+Built in Framer. 3D transitions, scroll-driven storytelling, motion effects. Every interaction designed to build trust and drive conversion.
 
-`Framer` `3D Transitions` `Motion Design` `Brand Storytelling`
+`Framer` `Motion Design` `3D Transitions` `Brand Story`
 
 </td>
 </tr>
@@ -182,21 +196,21 @@ Built entirely in Framer — every scroll tells a story. 3D transitions, smooth 
 <td width="50%" valign="top">
 
 ### 💎 Strategix Landing Pages
-**[This Repo](https://github.com/Ahlamghribi/landing-page-strategixs-assistance)** &nbsp; `France`
+**[View Repo →](https://github.com/Ahlamghribi/landing-page-strategixs-assistance)** &nbsp;•&nbsp; `France 🇫🇷`
 
-Two landing pages for a French enterprise. Two radically different visual identities — Cyber Blue SaaS dashboard vs Dark Gold luxury editorial. Two live Three.js 3D scenes. Zero npm. Zero build step. Zero frameworks.
+2 landing pages. 2 visual identities. Zero frameworks. Two live Three.js 3D scenes, custom gold cursor, CSS-only animations, Canvas API.
 
-`Three.js` `Canvas API` `CSS Animations` `Vanilla JS` `Custom Cursor`
+`Three.js` `Vanilla JS` `Canvas API` `CSS Animations` `0 deps`
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 More Coming
-**Constantly building...**
+### 🔐 Cybersecurity Work
+`Ongoing` &nbsp;•&nbsp; `Algeria + International`
 
-React SaaS dashboards, Django REST APIs, Flutter mobile apps, custom WordPress themes, Figma design systems, AWS deployments — always something in progress.
+Security audits, firewall configuration, SSL hardening, penetration testing concepts, encrypted form systems, HTTPS enforcement across all client projects.
 
-`React` `Django` `Flutter` `AWS` `Figma`
+`Security Hardening` `Firewall` `SSL/TLS` `OWASP` `Encryption`
 
 </td>
 </tr>
@@ -204,68 +218,70 @@ React SaaS dashboards, Django REST APIs, Flutter mobile apps, custom WordPress t
 
 ---
 
-## 📊 &nbsp; GitHub Stats
+## 📊 &nbsp; GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahlamghribi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=c9d1d9&ring_color=00C8FF" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahlamghribi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=c9d1d9" height="170"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=Ahlamghribi&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=cccccc&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahlamghribi&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=cccccc&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahlamghribi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C8FF&ring=00C8FF&fire=C9A84C&currStreakLabel=00C8FF&sideLabels=00C8FF&dates=888888"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahlamghribi&hide_border=true&background=0d0d0d&stroke=a855f7&ring=a855f7&fire=f59e0b&currStreakLabel=a855f7&sideLabels=a855f7&dates=888888&sideNums=ffffff&currStreakNum=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahlamghribi&bg_color=0D1117&color=00C8FF&line=00C8FF&point=C9A84C&area_color=00C8FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahlamghribi&bg_color=0d0d0d&color=a855f7&line=a855f7&point=f59e0b&area_color=a855f7&area=true&hide_border=true&custom_title=Contribution%20Graph%20—%20Ahlam%20Ghribi"/>
 
 </div>
 
 ---
 
-## 🏆 &nbsp; Impact by Numbers
+## 🏆 &nbsp; Results That Speak
 
 <div align="center">
 
-| Metric | Result |
-|:--|:--|
-| ⚡ Average Load Time | **< 2.5s** &nbsp; *(industry avg: 5–6s)* |
-| 🚀 PageSpeed Score | **95+** across all client projects |
-| 📈 Organic Traffic Growth | **+65% average** post-launch |
-| 🔝 Google Rankings | **Top 5** for target keywords |
-| 💰 Conversion Rate Lift | **+25 to +40%** |
-| 📉 Bounce Rate Reduction | **−40%** after redesigns |
-| 📱 Mobile Responsiveness | **100%** across all projects |
-| 🌍 Countries Served | **6+** (Algeria, France, USA, Canada...) |
+| &nbsp; | Metric | Result |
+|:---:|:--|:--|
+| ⚡ | Page Load Time | **< 2.5s** avg &nbsp;*(industry: 5–6s)* |
+| 🚀 | PageSpeed Score | **95+** across all client sites |
+| 📈 | Organic Traffic Growth | **+65%** average post-launch |
+| 🔝 | Google Rankings | **Top 5** for target keywords |
+| 💰 | Conversion Rate Lift | **+25% to +40%** |
+| 📉 | Bounce Rate Reduction | **−40%** after redesigns |
+| 📱 | Mobile Responsiveness | **100%** — no exceptions |
+| 🌍 | Countries Served | **6+** across 4 continents |
 
 </div>
 
 ---
 
-## 📬 &nbsp; Let's Build Something
+## 📬 &nbsp; Get In Touch
 
 <div align="center">
 
-I'm available for **freelance projects**, **collaborations**, and **full-time opportunities**.
+*I'm available for freelance projects, collaborations, and full-time opportunities.*
 
-If you have a vision — I have the execution.
+*If you have a vision — I have the execution.*
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghribi.ahlam@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlamghribi)
+[![Email](https://img.shields.io/badge/ahlamghribi77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahlamghribi77@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahlamghribi)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlamghribi)
 
 <br/>
 
 ```
-Algeria 🇩🇿  ──────────────────────────────  France 🇫🇷
-        Building across borders, without limits.
+     Algeria 🇩🇿  ──────────────────────────  World 🌍
+          Building without borders, without limits. 
 ```
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=120&section=footer&text=&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24&height=100&section=footer&fontAlign=80&reversal=true&animation=fadeIn"/>
